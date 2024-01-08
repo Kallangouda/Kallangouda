@@ -15,9 +15,9 @@
 
 - 🔭 2024 Goal :  **Full Stack Web Developer** 
   
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sahil-s-i)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Kallangouda)
 
-- 📫 How to reach me [Mail](sahilismailnavar@gmail.com)
+- 📫 How to reach me [Mail](kallangoudafpatil@gmail.com)
 
 
 - 📄 Know More about me [My-Portfolio](https://sahil-s-i.github.io/Sahil-Portfolio/)
