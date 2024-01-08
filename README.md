@@ -2,7 +2,7 @@
 ![logo](https://142972.fs1.hubspotusercontent-na1.net/hubfs/142972/Blog_CybersecurityStatistics_BlogHero_202206_V2.png)
 
 
-<h1 align="center">Hi 👋, I'm Sahil</h1>
+<h1 align="center">Hi 👋, I'm Kallangouda</h1>
 <h3 align="center">A passionate Front-End Developer from India</h3><br><br>
 
 [![](https://visitcount.itsvg.in/api?id=Sahil-s-i&icon=0&color=0)](https://visitcount.itsvg.in)
