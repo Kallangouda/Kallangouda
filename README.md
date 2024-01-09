@@ -1,5 +1,5 @@
 
-![logo](https://142972.fs1.hubspotusercontent-na1.net/hubfs/142972/Blog_CybersecurityStatistics_BlogHero_202206_V2.png)
+![logo](https://down-yuantu.pngtree.com/58pic/32/37/70/50p58PICA58PICd6jf2zT0k7r_PIC2018.png?e=1704813800&st=OTRhMmZlMzg1N2Q3ZmVkY2NlZjBmMDIyZmViOGI1OWU&n=%E2%80%94Pngtree%E2%80%942.5d-semi-stereo+global+programmers+day+business_4204325.png)
 
 
 <h1 align="center">Hi 👋, I'm Kallangouda</h1>
