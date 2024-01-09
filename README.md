@@ -14,7 +14,7 @@
 - 💬 Ask me about **Front-End & Programming Languages**
 
 - 🔭 2024 Goal :  **Full Stack Web Developer** 
-  
+
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Kallangouda)
 
 - 📫 How to reach me [Mail](kallangoudafpatil@gmail.com)
