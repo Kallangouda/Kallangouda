@@ -20,7 +20,7 @@
 - 📫 How to reach me [Mail](kallangoudafpatil@gmail.com)
 
 
-- 📄 Know More about me [My-Portfolio](https://sahil-s-i.github.io/Kallangouda-Portfolio/)
+- 📄 Know More about me [My-Portfolio](https://kallangouda.github.io/Kallangouda-Portfolio/)
 
 - ⚡ Fun Fact : I once debugged a code issue in my dream and woke up with the solution 🌙💻😅
 
