@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Back-End Development**
 
-- 💬 Ask me about **Front-End & Programming Languages**
-
 - 🔭 2024 Goal :  **Full Stack Web Developer** 
+
+- 💬 Ask me about **Front-End & Programming Languages**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Kallangouda)
 
